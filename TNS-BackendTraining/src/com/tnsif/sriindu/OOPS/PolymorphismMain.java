@@ -7,6 +7,12 @@ public class PolymorphismMain {
 		
 		System.out.println(obj.add(5, 5));
 		System.out.println(obj.add(5.2f, 5.4f));
+		
+		
+		RuntimePolymorphism rp=new RuntimePolymorphism();
+		Child rpc=new Child();
+		rp.printmsg();
+		rpc.printmsg();
 
 	}
 
