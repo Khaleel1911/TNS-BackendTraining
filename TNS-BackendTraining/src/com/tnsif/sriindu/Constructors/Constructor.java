@@ -1,4 +1,4 @@
-package com.tnsif.sririndu.Constructors;
+package com.tnsif.sriindu.Constructors;
 
 public class Constructor {
 		String name;

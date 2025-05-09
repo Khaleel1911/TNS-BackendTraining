@@ -1,4 +1,4 @@
-package com.tnsif.sririndu.Constructors;
+package com.tnsif.sriindu.Constructors;
 
 public class ConstructorMain {
 		public static void main(String[] args) {
